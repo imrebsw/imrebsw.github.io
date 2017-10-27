@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<b>This text is bold</b>
+<strong>This text is strong</strong>
+<i>This text is italic</i>
+<em>This text is emphasized</em>
+
+</body>
+</html>
