@@ -1,17 +1,52 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width">
-    <title>repl.it</title>
-    <link href="index.css" rel="stylesheet" type="text/css" />
-  </head>
-  <body>
-   <p class="mystyle">IP is Internet Protocol.</p>
-   <p class="mybstyle">IP is Internet Protocol.</p>
-   <p class="mybgstyle">Blah blah blah.</p>
-   <p class="mybgistyle">HTML is for content.</p>
-   <p class="mytstyle">HTML is for content.</p>
-   <p class="myfstyle">Yadadadadadadada.</p>
-  </body>
-</html>
+h1 {
+  background-color: lightblue;
+}
+
+table, th, td {
+   border: 1px solid black;
+   border-collapse: collapse;
+   background-color:#ffe5e5;
+}
+
+h2 {
+  padding: 10px;
+  background-color: lightblue;
+}  
+#description{
+  background: lightpink;
+  padding: 5px;
+  padding-left: 5px;
+}
+
+.par{
+  background-color:#ffe5e5;
+  
+}
+
+#syntax{
+  background: lightpink;
+  padding: 5px;
+  padding-left: 5px;
+}
+
+.par{
+  background-color:#ffe5e5;
+}
+
+#example{
+  background: lightpink;
+  padding: 5px;
+  padding-left: 5px;
+}
+
+.par{
+  background-color:#ffe5e5;
+}
+
+.ul{
+  background-color:#ffe5e5;
+}
+
+.tab{
+  background-color:#ffe5e5;
+}
