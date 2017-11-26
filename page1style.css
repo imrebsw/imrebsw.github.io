@@ -1,0 +1,88 @@
+.content {
+  background-color:#ffffff;
+}
+
+.content p {
+  font-family:"Ariel", sans-serif;
+  color:black;
+}
+
+.header {
+    font-family: "Times New Roman", Times, serif;
+    color: white;
+    width: 100%;
+    font-style: italic;
+    font-size: 80%;
+    font-weight: bold;
+    text-align: center;
+    text-transform: lowercase;
+    letter-spacing: 10px;
+    line-height: 1.8;
+    text-shadow: 3px 2px black;
+    background-color: white;
+}
+
+.topnav {
+  color: black;
+  font-family: "Courier New", Monospace;
+  font-size: 75%;
+}
+
+.footer {
+  color: black;
+  font-family: "Courier New", Monospace;
+  font-size: 75%;
+  background-color: white
+}
+
+.jellyfish img {
+  width: 200px;
+  height: 300px;
+}
+
+.shadows img {
+  width: 200px;
+  height: 300px;
+}
+
+.palmtrees img {
+  width: 200px;
+  height: 300px;
+}
+
+.trees img {
+  width: 200px;
+  height: 300px;
+}
+
+.kimia img {
+  width: 200px;
+  height: 300px;
+}
+
+.painting img {
+  width: 200px;
+  height: 300px;
+}
+
+.me img {
+  width: 200px;
+  height: 300px;
+}
+
+.sunset img {
+  width: 200px;
+  height: 300px;
+}
+
+.chairs img {
+  width: 200px;
+  height: 300px;
+}
+
+.footer1 {
+  color: black;
+  font-family: "Courier New", Monospace;
+  font-size: 75%;
+  background-color: white
+}
