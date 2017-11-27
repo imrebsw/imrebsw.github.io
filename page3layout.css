@@ -1,17 +1,3 @@
-* {
-    box-sizing: border-box;
-}
-
-body {
-  margin: 0;
-}
-
-.header {
-    background-color:#ddd;
-    text-align: center;
-  
-}
-
 #header {
   position: absolute; top:200px; right:500px;
 }
@@ -20,8 +6,6 @@ body {
 .topnav {
     list-style-type: none;
     overflow: hidden;
-    background-color: white;
-    list-style-type: none;
     display: flex;
     justify-content: center;   
 }
@@ -39,20 +23,18 @@ body {
 }
 
 
-.h2 {
+h4 {
+  width: 100px;
   margin: auto;
-  margin-top: 50%;
-  margin-bottom: 50%;
 }
 
-.p1 {
-   margin: auto;
+.table {
+  margin: auto;
   margin-top: 55%;
   margin-bottom: 45%;
 }
 
 .footer3 {
-    background-color: #f1f1f1;
     padding: 10px;
     text-align: center;
     margin: auto;
