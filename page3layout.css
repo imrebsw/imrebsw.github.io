@@ -23,15 +23,16 @@
 }
 
 
+iframe {
+  margin: auto;
+  margin-top: 3%;
+  margin-bottom: 97%;
+  margin-left: 450px;
+}
+
 h4 {
   width: 100px;
   margin: auto;
-}
-
-.table {
-  margin: auto;
-  margin-top: 55%;
-  margin-bottom: 45%;
 }
 
 .footer3 {
